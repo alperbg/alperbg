@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working with **Onedio**
 
-- 🌱 I’m currently learning **Go / Devops**
-
 - 📫 How to reach me **alper0524@gmail.com**
 
 <!-- ### Blogs posts -->
