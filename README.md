@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alperbg&label=Profile%20views&color=0e75b6&style=flat" alt="alperbg" /> </p>
 
-- 🔭 I’m currently working with **Onedio**
+- 🔭 I’m currently working at **Onedio**
 
 - 📫 How to reach me **alper0524@gmail.com**
 
